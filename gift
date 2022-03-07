@@ -1,0 +1,16 @@
+from platform import * # \
+print("I'm a Python program (%s %s)." % # [-][ \
+(python_implementation(), python_version())); """--><html><head>
+<!--:--><title>I'm a HTML page</title></head><body>
+<!--:--><h1>I'm a <marquee><blink>horrible HTML</blink></marquee> page</h1>
+<!--:--><script language="JavaScript">
+<!--: # \
+setTimeout( // \
+   function () { // \
+      document.body.innerHTML = "<h1>I'm a javascript-generated HTML page</h1>"; // \
+   }, 10000); // \
+//-->
+</script><!--: \
+</body></html><!-- }} # \
+say "I'm a Perl6 program."; # """ # */
+ #define FOO ]-->~
